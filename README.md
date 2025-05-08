@@ -1,6 +1,6 @@
 # Brainwave Clone
 
-A clone of the Brainwave website Landing-page showcasing modern design and responsive layout.
+A clone of the Brainwave website Landing-Page showcasing modern design and responsive layout.
 
 ## Features
 - Fully responsive design
@@ -15,5 +15,6 @@ A clone of the Brainwave website Landing-page showcasing modern design and respo
 ## Live Demo
 Check out the live website here: [Brainwave Clone](https://brain-wave-duplicate.vercel.app/)
 
-Honestly i really Enjoyed working on this project.
-Expect Fully developed Websites with mordern design like this from me soon.
+## Screenshot
+![Brainwave Clone Screenshot](![Screenshot_8-5-2025_214456_brain-wave-duplicate vercel app](https://github.com/user-attachments/assets/fd2be967-ef23-482f-b5a2-28e3f8170bcc)
+)
