@@ -16,5 +16,6 @@ A clone of the Brainwave website Landing-Page showcasing modern design and respo
 Check out the live website here: [Brainwave Clone](https://brain-wave-duplicate.vercel.app/)
 
 ## Screenshot
-![Brainwave Clone Screenshot](![Screenshot_8-5-2025_214456_brain-wave-duplicate vercel app](https://github.com/user-attachments/assets/fd2be967-ef23-482f-b5a2-28e3f8170bcc)
+![Brainwave Clone Screenshot]![Screenshot_9-5-2025_94657_brain-wave-duplicate vercel app](https://github.com/user-attachments/assets/bfab9077-e2a8-431e-9cdb-0ebf8607655b)
+()
 )
